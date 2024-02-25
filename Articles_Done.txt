@@ -28,8 +28,11 @@ dissolve the Legislative Assembly.
 
 
 5. Article 341 and Article 342
-
 Article 341 of the Indian Constitution authorises the President to declare certain castes and classes as Scheduled Castes in a state or a union territory. It also states that the Parliament can include or exclude any caste or tribe from the list. Similar provisions are stated for the Scheduled Tribes in Article 342.
+
+Article 342A : deals with the power of president of india to notify a particular caste as a socialy and economically backward class (SEBC) and the power of parliament to change the list.
+
+
 
 6. Article 371: Special Provisions about Maharashtra And Goa
 	371A (aAG) : Nagaland
@@ -146,3 +149,56 @@ This Article allows for consequential changes in the Ist Schedule i.e. names of 
 
 27. Article 2A :
 Sikkim, which comprises the territories specified in the Tenth Schedule, shall be associated with the Union on the terms and conditions set out in that Schedule.
+
+
+
+28. Article 361 :
+According to Article 361 of the Constitution of India, a criminal proceeding cannot be instituted in a court against the president or the Governor during his term of office.
+
+
+
+29. Article 48 :
+Article 48 of the Constitution of India is one of the Directive Principles which directs the state to make efforts for banning animal slaughtering of cows and calves and other milch and draught cattle
+
+
+
+30. Article 340: 
+Article 340 provides for the appointment of a Commission to investigate the conditions of backward classes
+
+
+
+31. Article 301 :
+Article 301 of the Indian Constitution deals with freedom of trade, commerce and intercourse. It mentions that subject to the other provisions of this Part, trade, commerce and intercourse throughout the territory of India shall be free. 
+
+
+
+32. Article 338 :
+According to article 338, there shall be a Commission(National Commission for the Scheduled Tribes) for the Scheduled Castes to be known as the National Commission for the Scheduled Casts
+
+
+33. Article 338A :
+According to article 338 A, there shall be a Commission(National Commission for the Scheduled Tribes) for the Scheduled Tribes to be known as the National Commission for the Scheduled Tribes
+
+102nd amendment 2018
+{
+	34. Article 338B :
+	It deals with the structure, duty and powers of the national commission of the National commission for backward classes(NCBC).
+
+
+	35. Article 342A : 
+	deals with the power of president of india to notify a particular caste as a socialy and economically backward class (SEBC) and the power of parliament to change the list.
+}
+
+
+
+34. Article 358 :
+Article 358 is confined to Fundamental Rights under Article 19. The Right of freedom of Speech and Expression comes under Article 19. Once an emergency is declared in India, Article 358 automatically suspends these rights.
+
+
+
+35. Article 359 :
+Article 359 authorizes the President of India to suspend the right to move any court for the enforcement of Fundamental Rights during a national emergency. Under a Presidential order, the state government can make any law or can take any executive action abridging or taking away the specified Fundamental Rights. It can extend to the whole of India, or part of it. It can be removed by Presidential order.
+
+
+
+
